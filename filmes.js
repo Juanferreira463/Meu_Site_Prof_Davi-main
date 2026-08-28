@@ -10,9 +10,9 @@ export const filmes = [
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "2 horas e 49 minutos",
+        genero: "ficção científica, drama e aventura.",
+        classificacao: "10 anos.",
     },
 
     {
@@ -24,9 +24,9 @@ export const filmes = [
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "2 horas e 32 minutos",
+        genero: "Ação,Policial / Crime,Suspense e Super-herói / Drama.",
+        classificacao: "12 anos",
     },
 
     {
@@ -38,9 +38,9 @@ export const filmes = [
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "2 horas e 24 minutos",
+        genero: "ação, aventura, ficção científica e super-herói.",
+        classificacao: "12 anos",
     },
 
     {
@@ -52,9 +52,9 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "2 horas e 6 minutos",
+        genero: "ação, ficção científica e super-herói",
+        classificacao: "12 Anos",
     },
 
     {
@@ -66,9 +66,9 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "2 horas e 2 minutos.",
+        genero: "drama, suspense psicológico e policial/crime.",
+        classificacao: "16 Anos",
     },
 
     {
@@ -80,9 +80,9 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "2 horas e 27 minutos.",
+        genero: " ação, ficção científica, super-herói e thriller político.",
+        classificacao: "13 Anos",
     }
 ];
 
@@ -96,9 +96,9 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "5 TEMPORADAS",
+        genero: "ficção científica, terror, drama e mistério.",
+        classificacao: "17 Anos",
     },
     {
         id: "Justiceiro",
@@ -109,9 +109,9 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "2 TEMPORADAS",
+        genero: "ação, policial/crime, thriller de conspiração e drama psicológico.",
+        classificacao: "19 Anos",
     },
     {
         id: "Breaking Bad",
@@ -122,9 +122,9 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "5 TEMPORADAS",
+        genero: "drama, policial/crime e suspense (thriller)",
+        classificacao: "17 Anos",
     },
     {
         id: "Peaky Blinders",
@@ -135,9 +135,9 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "6 TEMPORADAS",
+        genero: "drama histórico, policial/crime e ficção de época.",
+        classificacao: "18 Anos",
     },
     {
         id: "Round 6",
@@ -149,9 +149,9 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "3 TEMPORADAS",
+        genero: "thriller (suspense) psicológico, drama social e sobrevivência (survival).",
+        classificacao: "16 Anos",
     },
     {
         id: "La casa de papel",
@@ -162,8 +162,8 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "PREENCHER",
+        duracao: "5 TEMPORADAS",
+        genero: "thriller (suspense) de assalto, drama policial e ação.",
+        classificacao: "16 Anos",
     }
 ];
